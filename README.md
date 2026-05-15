@@ -8,7 +8,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-CUDA%2011.8-red?style=for-the-badge&logo=pytorch)
 ![CLIP](https://img.shields.io/badge/OpenAI-CLIP-green?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/Meta-FAISS-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
 
 **Type `apple in hand` → instantly get all matching images from your local collection.**  
 Like Google Lens, but 100% offline and running on YOUR machine.
@@ -258,13 +258,6 @@ Pull requests are welcome! For major changes, please open an issue first.
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
 ---
 
 ## Acknowledgements
